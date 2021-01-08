@@ -36,3 +36,4 @@ D:\dio\CRUD-DOTNET_CORE\CRUD_usuario\CRUD_usuario\obj\Debug\net5.0\ref\CRUD_usua
 D:\dio\CRUD-DOTNET_CORE\CRUD_usuario\CRUD_usuario\obj\Debug\net5.0\CRUD_usuario.pdb
 D:\dio\CRUD-DOTNET_CORE\CRUD_usuario\CRUD_usuario\obj\Debug\net5.0\CRUD_usuario.genruntimeconfig.cache
 D:\dio\CRUD-DOTNET_CORE\CRUD_usuario\CRUD_usuario\bin\Debug\net5.0\CRUD_usuario.xml
+D:\dio\CRUD-DOTNET_CORE\CRUD_usuario\CRUD_usuario\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
