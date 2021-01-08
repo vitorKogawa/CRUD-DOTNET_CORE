@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WJT+1WvjB/XCKg+vqF+wU/TBtrx7vnS8fJcNYnOUeumD1vwSxOZhiBsun9INyph0yLcu9jq0HkrtwIsYrkhNxQ==",
+  "dgSpecHash": "+pNKlvD0G4wJzDH4/eyE31ubut2W8nNXUgClZZ9tJ8aX/VnTP0jPvdm4OXEf/meIera7RaROLhidJotODMg8bA==",
   "success": true,
   "projectFilePath": "D:\\dio\\CRUD-DOTNET_CORE\\CRUD_usuario\\CRUD_usuario\\CRUD_usuario.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\vitor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
